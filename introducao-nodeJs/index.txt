@@ -1,0 +1,1 @@
+nessa aula não tivemos nada prático, mas vimos como o node-js pode ser poderoso.
